@@ -1,0 +1,9 @@
+---
+:orm: datamapper
+:test: minitest
+:mock: none
+:script: none
+:renderer: none
+:stylesheet: none
+:namespace: NerdsvilleNet
+:migration_format: number
